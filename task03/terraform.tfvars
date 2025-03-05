@@ -1,0 +1,6 @@
+resource_group_name  = "cmaz-dfc0edb2-mod3-rg"
+storage_account_name = "cmazdfc0edb2sa"
+vnet_name            = "cmaz-dfc0edb2-mod3-vnet"
+frontend_subnet_name = "frontend"
+backend_subnet_name  = "backend"
+email                = "sourabh_suryawanshi@epam.com"
